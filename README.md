@@ -29,10 +29,6 @@ I build data-driven applications and specialize in extracting actionable busines
 An end-to-end project to analyze sales performance, customer behavior, and regional trends, delivering business insights through interactive dashboards.  
 *Stack: Python, MySQL, Power BI, Jupyter Notebook*
 
-**Fraud Detection Analytics (Coming Soon)** 
-An upcoming data analytics project focused on identifying fraudulent activities and anomalies using advanced data processing techniques and Machine Learning.  
-*Stack: Python, Postgresql, powerbi, Unsupervised machine Learning (Isolation Forest)*
-
 **[Crop Disease Detection System](https://github.com/Tanvi-77/crop-disease-project)**  
 Built an AI-powered application that detects plant diseases from leaf images and provides prewritten solution using the MobileNetV2 deep learning model.  
 *Stack: Python, Deep Learning, MobileNetV2, sqlite, Streamlit*
@@ -42,6 +38,7 @@ A logic-based personal finance management application that helps users track dai
 *Stack: Python, SQLite3, Streamlit*
 
 ---
+*Currently building : A fraud detection analysis project using Isolation Forest for anomaly detection.*
 
 ## 📫 Connect
 
