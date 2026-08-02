@@ -25,11 +25,11 @@ I build data-driven applications and specialize in extracting actionable busines
 
 ## 🚀 Featured Projects
 
-**Ecommerce Sales Analysis**  
+**[Ecommerce Sales Analysis](https://github.com/Tanvi-77/Ecommerce-Sales-Analysis)**  
 An end-to-end project to analyze sales performance, customer behavior, and regional trends, delivering business insights through interactive dashboards.  
 *Stack: Python, MySQL, Power BI, Jupyter Notebook*
 
-**Fraud Detection Analytics (Coming Soon)**  
+**[Crop Disease Detection System](https://github.com/Tanvi-77/crop-disease-project)**  
 An upcoming data analytics project focused on identifying fraudulent activities and anomalies using advanced data processing techniques and Machine Learning.  
 *Stack: Python, Postgresql, powerbi, Unsupervised machine Learning (Isolation Forest)*
 
@@ -37,7 +37,7 @@ An upcoming data analytics project focused on identifying fraudulent activities 
 Built an AI-powered application that detects plant diseases from leaf images and provides prewritten solution using the MobileNetV2 deep learning model.  
 *Stack: Python, Deep Learning, MobileNetV2, sqlite, Streamlit*
 
-**Personal Finance Expense Tracker**  
+**[Personal Finance Expense Tracker](https://github.com/Tanvi-77/New_Expense_Tracker2)**  
 A logic-based personal finance management application that helps users track daily expenses, manage monthly budgets, generate interactive dashboard and gain insights into their spending habits.  
 *Stack: Python, SQLite3, Streamlit*
 
