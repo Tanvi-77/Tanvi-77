@@ -25,7 +25,7 @@ I build data-driven applications and specialize in extracting actionable busines
 
 ## 🚀 Featured Projects
 
-**[Fraud Detection Analytics](https://github.com/Tanvi-77/Fraud-detection-ml-analytics)**  
+**[Fraud-detection-ml-analytics](https://github.com/Tanvi-77/Fraud-detection-ml-analytics)**  
 A robust data analytics project utilizing Isolation Forest for anomaly detection to identify fraudulent activities within complex financial datasets.  
 *Stack: SQL (Postgresql), Python, Machine Learning (Isolation Forest), Power BI*
 
