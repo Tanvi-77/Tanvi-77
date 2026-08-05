@@ -45,5 +45,5 @@ A logic-based personal finance management application that helps users track dai
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanvi_Salaskar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvi-salaskar-ab473129b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanvi_Salaskar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvi-data-analyst/)
 [![Email](https://img.shields.io/badge/Email-tanvisalaskar.04.ts@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tanvisalaskar.04.ts@gmail.com)
