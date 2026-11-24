@@ -6,9 +6,9 @@ I build data-driven applications and specialize in extracting actionable busines
 
 ## ⚙️ What I Build
 
-*   **Data Analytics & Dashboards:** Developing end-to-end pipelines to analyze sales performance, regional trends, and customer behavior using Python, MySQL, and Power BI.
 *   **Fraud Detection Analytics (In Progress):** Currently building a robust data analytics project focused on identifying anomalous patterns and detecting fraud within complex financial datasets.
-*   **Applied Machine Learning:** Building AI-powered web applications, such as implementing the MobileNetV2 deep learning model for image classification and disease detection.
+*   **Data Analytics & Dashboards:** Developing end-to-end pipelines to analyze sales performance, regional trends, and customer behavior using Python, MySQL, and Power BI.
+*   **Applied Deep Learning:** Building AI-powered web applications, such as implementing the MobileNetV2 deep learning model for image classification and disease detection.
 *   **Logic-Based Applications:** Creating personal finance and management tools using Python, SQLite3, and Streamlit to manage data flow and user interactions.
 
 ---
